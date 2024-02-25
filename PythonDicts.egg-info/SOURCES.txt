@@ -1,0 +1,10 @@
+README.md
+setup.py
+PythonDicts/__init__.py
+PythonDicts/represent.py
+PythonDicts.egg-info/PKG-INFO
+PythonDicts.egg-info/SOURCES.txt
+PythonDicts.egg-info/dependency_links.txt
+PythonDicts.egg-info/top_level.txt
+PythonDicts/Gemini/__init__.py
+PythonDicts/Gemini/safety.py
